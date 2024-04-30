@@ -8,11 +8,11 @@ int main()
 {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL); cout.tie(NULL);
-	int N, M, answer = 0;
+	long N, M, answer = 0;
 	cin >> N >> M;
 
-	vector<int> S(N, 0);
-	vector<int> C(M, 0);
+	vector<long> S(N, 0);
+	vector<long> C(M, 0);
 
 	cin >> S[0];
 	for (int i = 1; i < N; i++) {
