@@ -1,3 +1,2 @@
-﻿  Q011.cpp
-C:\Users\tmdtn\source\repos\CodingTestReview\CodingTestReview\Q011.cpp(16,7): warning C4101: 'now' :참조되지 않은 지역 변수입니다.
+﻿  Q012.cpp
   CodingTestReview.vcxproj -> C:\Users\tmdtn\source\repos\CodingTestReview\x64\Debug\CodingTestReview.exe
